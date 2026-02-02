@@ -238,24 +238,6 @@ We especially welcome contributions in:
 - `priority-high`: High priority issues
 - `security`: Security-related issues
 
-## 📞 Getting Help
-
-- Join our Discord server
-- Check the Wiki for documentation
-- Open a discussion for questions
-- Tag maintainers in issues when needed
-
-## 📜 Code of Conduct
-
-Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md). We are committed to providing a welcoming and inclusive environment for all contributors.
-
-## 🎉 Recognition
-
-Contributors will be:
-- Added to the CONTRIBUTORS.md file
-- Mentioned in release notes
-- Given credit in documentation
-- Invited to the contributors team (for significant contributions)
 
 ## 📄 License
 
