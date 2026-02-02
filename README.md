@@ -2,11 +2,7 @@
 
 **AI-Assisted Vulnerability Assessment & Penetration Testing Tool**
 
-AegisScan is an open-source security scanning platform that combines traditional penetration testing tools with artificial intelligence to provide comprehensive vulnerability assessments. Designed for beginners, researchers, and security professionals, it offers automated reconnaissance, intelligent analysis, and detailed reporting.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org/)
+Meet AegisScan: your open-source security guardian. By fusing elite penetration tools with a sharp AI brain, it transforms messy scans into a masterclass in defense. Whether you're a curious beginner or a seasoned pro, AegisScan automates the grunt work and delivers the "Aha!" moments through effortless, intelligent analysis.
 
 ## 🔧 Features
 
@@ -33,7 +29,7 @@ AegisScan is an open-source security scanning platform that combines traditional
 
 ```bash
 # Clone the repository
-git clone https://github.com/yashab-cyber/AegisScan.git
+git clone https://github.com/harshadpawar22/AegisScan.git
 cd AegisScan
 
 # Run the installation script (Ubuntu/Debian)
@@ -226,15 +222,11 @@ Generate professional security reports in multiple formats:
 - Respect rate limits and target system resources
 - Review local laws and regulations before testing
 
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ### Development Setup
 
 ```bash
 # Clone and setup development environment
-git clone https://github.com/yashab-cyber/AegisScan.git
+git clone https://github.com/harshadpawar22/AegisScan.git
 cd AegisScan
 
 # Install development dependencies
