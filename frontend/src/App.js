@@ -28,7 +28,6 @@ import {
   Settings as SettingsIcon,
   Help as HelpIcon,
   AccountCircle as AccountIcon,
-  Favorite as DonateIcon
 } from '@mui/icons-material';
 import { useNavigate, useLocation } from 'react-router-dom';
 
@@ -40,7 +39,6 @@ import Reports from './components/Reports';
 import AIAssistant from './components/AIAssistant';
 import Settings from './components/Settings';
 import Help from './components/Help';
-import Donate from './components/Donate';
 
 // Import context
 import { ScanProvider } from './context/ScanContext';
@@ -55,7 +53,6 @@ const menuItems = [
   { text: 'AI Assistant', icon: <AIIcon />, path: '/ai-assistant' },
   { text: 'Settings', icon: <SettingsIcon />, path: '/settings' },
   { text: 'Help', icon: <HelpIcon />, path: '/help' },
-  { text: 'Donate', icon: <DonateIcon />, path: '/donate' },
 ];
 
 function App() {
@@ -229,7 +226,6 @@ function App() {
               <Route path="/ai-assistant" element={<AIAssistant showNotification={showNotification} />} />
               <Route path="/settings" element={<Settings showNotification={showNotification} />} />
               <Route path="/help" element={<Help />} />
-              <Route path="/donate" element={<Donate />} />
             </Routes>
           </Container>
         </Box>
